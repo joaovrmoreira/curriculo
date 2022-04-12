@@ -1,0 +1,25 @@
+body {
+    background-image: url("download.jpg");
+    background-size: cover;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.c3 {
+    background-color: aliceblue;
+    max-width: 400px;
+    max-height: 2000px;
+}
+
+.c2 {
+    margin-left: 50px;
+    margin-top: 20px;
+    color:dimgray;
+}
+
+.c4 {
+    background-color: aliceblue;
+    max-width: 900px;
+}
+.fontezona {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
